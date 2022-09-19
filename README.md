@@ -24,7 +24,7 @@ Save all API keys, tokens, emails, and usernames in ```config.py```.
 
 
 ## [```pubmed.py```](https://github.com/ponceoscarj/geripapers/blob/main/pubmed.py)
-This ```script``` will search in [PubMed](https://pubmed.ncbi.nlm.nih.gov) the latest research articles in Geriatric Medicine and will Tweet one article every 20 minutes. The file utilises a search strategy available in line 140. 
+This ```script``` will search in [PubMed](https://pubmed.ncbi.nlm.nih.gov) the latest research articles in Geriatric Medicine and will Tweet one article every 20 minutes. The file utilises a search strategy available in [```line 140```](https://github.com/ponceoscarj/geripapers/blob/48a101c7adf3eaffb97e41655690a3487b650d34/pubmed.py#L140). 
 
 Every Tweet will have the following information ([Example](https://twitter.com/geripapers/status/1571766417753513987?s=20&t=WD5EIugTsibiIV21UT4Jtg)):
 - Research article title 
