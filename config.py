@@ -1,0 +1,9 @@
+api_key = '' #insert twitter api key
+api_key_secret = '' #insert twitter api key secret
+access_token = '' #insert twittter api access_token
+access_token_secret = '' #insert twitter api token_secret
+bearer_token = '' #insert twitter api bearer_token
+pubmed_email = '' #insert email used to create a PubMed account
+pubmed_api_key = '' #insert pubmed api key
+pythonanywhere_username = '' #insert PythonAnywhere username
+pythonanywhere_token = '' #insert PythonAnywhere token
