@@ -20,7 +20,7 @@ This Twitter bot that has 3 functions:
 Create a new Twitter Account ([@GeriPapers](https://twitter.com/geripapers)) and through the [Twitter Developer Portal](https://developer.twitter.com/) apply to **Elevated Access** for **Twitter API V2**.
 
 ## [```config.py```](https://github.com/ponceoscarj/geripapers/blob/main/config.py)
-Save all API keys, tokens, emails, and usernames in ```config.py```.
+Save all API keys, tokens, emails, and usernames in [```config.py```](https://github.com/ponceoscarj/geripapers/blob/main/config.py).
 
 
 ## [```pubmed.py```](https://github.com/ponceoscarj/geripapers/blob/main/pubmed.py)
@@ -31,7 +31,7 @@ Every Tweet will have the following information ([Example](https://twitter.com/g
 - PubMed Link
 - The hashtag #Geripapers
 
-Every research article identifier that has been tweeted, namely **PMID** ([What is a PMID?](https://uwyo.libanswers.com/faq/176930)), will be added to a ```.txt``` file called [```pmid_db.txt```](https://github.com/ponceoscarj/geripapers/blob/main/pmid_db.txt). You can find this file in this repository as example.
+The identifier of every research article that has been tweeted, namely **PMID** ([What is a PMID?](https://uwyo.libanswers.com/faq/176930)), will be added to a ```.txt``` file called [```pmid_db.txt```](https://github.com/ponceoscarj/geripapers/blob/main/pmid_db.txt). You can find this file in this repository as example.
 
 
 ## [```geripapers_altmetric.py```](https://github.com/ponceoscarj/geripapers/blob/main/geripapers_altmetric.py)
