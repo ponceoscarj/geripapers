@@ -51,5 +51,5 @@ The following ```python scripts``` are run as [Always-on Tasks](https://help.pyt
 
 The following python files are run as 24-hour/Daily [Scheduled Tasks](https://help.pythonanywhere.com/pages/ScheduledTasks/):
 - [```geripapers_altmetric.py```](https://github.com/ponceoscarj/geripapers/blob/main/geripapers_altmetric.py): _Although this python file is run everyday, bear in mind that the script itself has a conditional statement that allows it to run only once a week_
-- [```pythonanywhere_api.py```](https://github.com/ponceoscarj/geripapers/blob/main/pythonanywhere_api.py): _Although ```pubmed.py``` is continuously run, we make sure the search we use is run everyday to capture new articles._
+- [```pythonanywhere_api.py```](https://github.com/ponceoscarj/geripapers/blob/main/pythonanywhere_api.py): _Although ```pubmed.py``` is continuously run, we make sure the search we use is run every 24 hours/daily to capture the latest research articles in Geriatric Medicine._
 
