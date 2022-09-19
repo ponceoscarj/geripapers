@@ -1,0 +1,9 @@
+api_key = 'A31ZmE1n70KZnbpuaRdl2OvG6'
+api_key_secret = 'rXKznrujrXejUphjVvd6GQ0pC2X0QQWmepSiXlvNnALpqw24vR'
+access_token = '1515617794649473026-mOmW5p3KNnkRZaDNzlQ5ov54eKodz2'
+access_token_secret = 'Iti4A10DAVKG2PnlChshiOcIim0oZnXvdwHT3MOIbgWKK'
+bearer_token = 'AAAAAAAAAAAAAAAAAAAAAORXbgEAAAAArA0zaVkmPN1YayHM%2F2Ws2WWnGTg%3DQZVXnWHqb1uzjaTxENUgDkMtKQ7wU3ZTOVdrLYILBJV0cENkK6'
+pubmed_email = "ponceoscarj@gmail.com"
+pubmed_api_key = "51505daa5b386bf980b00d10b215f7954008"
+pythonanywhere_username = 'ponceoscarj'
+pythonanywhere_token = '959a2008c7c4ab435ed748531741d1902dd8bf7d'
