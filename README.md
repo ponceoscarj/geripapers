@@ -45,7 +45,7 @@ This ```file``` finds and retweets all tweets containing the following hashtags 
 ## [Pythonanywhere](https://www.pythonanywhere.com/)
 We use this web hosting service to execute all scripts regularly. 
 
-The following python files are run as [Always-on Tasks](https://help.pythonanywhere.com/pages/AlwaysOnTasks/):
+The following ```python scripts``` are run as [Always-on Tasks](https://help.pythonanywhere.com/pages/AlwaysOnTasks/):
 - [```pubmed.py```](https://github.com/ponceoscarj/geripapers/blob/main/pubmed.py)
 - [```hashtag_reteweet.py```](https://github.com/ponceoscarj/geripapers/blob/main/hashtag_reteweet.py)
 
