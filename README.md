@@ -2,7 +2,10 @@
 _Developed by [Oscar Ponce](https://twitter.com/PonceOJ) and [Eloy Ruiz](https://twitter.com/RuizEF)_
 
 
-A Twitter bot that tweets recently indexed in [PubMed](https://pubmed.ncbi.nlm.nih.gov) research articles in Geriatric Medicine, tweets the article that has had the highest attention in the internet, and retweets any tweet with the hashtags #Geripapers #GeriTwitter #GeriJC
+A Twitter bot that has 3 functions:
+1. Tweets research articles in Geriatric Medicine recently indexed in [PubMed](https://pubmed.ncbi.nlm.nih.gov)
+2. Tweets the research article that has had the highest attention on the internet
+3. Retweets any tweet with the hashtags #Geripapers #GeriTwitter and #GeriJC
 
 ## Requirements
 - [Biopython](https://biopython.org)
