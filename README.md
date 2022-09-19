@@ -17,7 +17,7 @@ A Twitter bot that has 3 functions:
 
   
 ## Setting up Twitter API Access
-Created a new Twitter Account ([@GeriPapers](https://twitter.com/geripapers)) and through the [Twitter Developer Portal](https://developer.twitter.com/) applied to **Elevated Access** for **Twitter API V2**.
+Create a new Twitter Account ([@GeriPapers](https://twitter.com/geripapers)) and through the [Twitter Developer Portal](https://developer.twitter.com/) apply to **Elevated Access** for **Twitter API V2**.
 
 ## [```config.py```](https://github.com/ponceoscarj/geripapers/blob/main/config.py)
 Save all API keys, tokens, emails, usernames in ```config.py```.
