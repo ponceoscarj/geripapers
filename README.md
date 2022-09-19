@@ -3,7 +3,7 @@ _Developed by [Oscar Ponce](https://twitter.com/PonceOJ) and [Eloy Ruiz](https:/
 
 
 A Twitter bot that has 3 functions:
-1. Tweets research articles in Geriatric Medicine recently indexed in [PubMed](https://pubmed.ncbi.nlm.nih.gov)
+1. Tweets the latest research articles in Geriatric Medicine recently indexed in [PubMed](https://pubmed.ncbi.nlm.nih.gov)
 2. Tweets the research article that has had the highest attention on the internet
 3. Retweets any tweet with the hashtags #Geripapers #GeriTwitter and #GeriJC
 
