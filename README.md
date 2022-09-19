@@ -1,5 +1,5 @@
 # Twitter Bot - [@GeriPapers](https://twitter.com/geripapers) 
-_Developed by [Oscar Ponce](https://twitter.com/PonceOJ) and [Eloy Ruiz](https://twitter.com/RuizEF)_
+_Developed by [Oscar J. Ponce](https://twitter.com/PonceOJ) and [Eloy F. Ruiz](https://twitter.com/RuizEF)_
 
 
 This Twitter bot that has 3 functions:
@@ -17,7 +17,7 @@ This Twitter bot that has 3 functions:
 
   
 ## Setting up Twitter API Access
-Create a new Twitter Account ([@GeriPapers](https://twitter.com/geripapers)) and through the [Twitter Developer Portal](https://developer.twitter.com/) apply to **Elevated Access** for **Twitter API V2**.
+Create a new Twitter Account ([@GeriPapers](https://twitter.com/geripapers)) and through the [Twitter Developer Portal](https://developer.twitter.com/), apply to **Elevated Access** for **Twitter API V2**.
 
 ## [```config.py```](https://github.com/ponceoscarj/geripapers/blob/main/config.py)
 Save all API keys, tokens, emails, and usernames in [```config.py```](https://github.com/ponceoscarj/geripapers/blob/main/config.py).
